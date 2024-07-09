@@ -1,0 +1,16 @@
+{
+
+    "Isabel Marant": {
+      "METHOD": "Scroll",
+      "DIRECTORY": "Isabel_Marant",
+      "ELEMENT_LOCATOR": null,
+      "POPUP_TEXT": [null],
+      "POPUP_ID": [null],
+      "POPUP_CLASS": ["onetrust-close-btn-handler"],
+      "POPUP_XPATH": [null],
+      "BY_XPATH": false,
+      "DOMAIN": "isabelmarant.com",
+      "PRODUCTS_PER_HTML_TAG": "product-item__info"
+    }
+  }
+  
